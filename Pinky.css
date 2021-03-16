@@ -1,8 +1,8 @@
 p{
     font-family: Arial; 
-    color: #feffbf; 
+    color: blue; 
     text-align: center;
-    position: relative;
+    position: relative; 
     top: 450px;
     
 }  
@@ -21,7 +21,7 @@ img{
 
 body{
     background-color: #ffbffe;
-    border: 4px dotted red; 
+    
     
     
     
