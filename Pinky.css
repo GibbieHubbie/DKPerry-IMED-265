@@ -1,7 +1,6 @@
 p{
     font-family: Arial; 
-    color: gold; 
-    text-align: center;
+    color: black;  
     position: relative; 
     top: 450px;
     
@@ -13,7 +12,7 @@ img{
     height: 250px; 
     border: 12px double yellow; 
     position: absolute;
-    left: 255px;  
+    left: 255px;   
     top: 105px;
     
 }
@@ -38,10 +37,9 @@ body{
 }
 
 div{
-    
-    color: yellow;
-     
+    color: #ff4747; 
     
     
 }
+
 
