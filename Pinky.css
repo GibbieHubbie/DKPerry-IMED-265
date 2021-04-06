@@ -18,28 +18,31 @@ img{
 }
 
 
-img:hover{ 
-    
-    height: 125px;
-    border: 4px solid black;
-    
-    
-}
-
-
 body{
-    background-color: #ffbffe;
-    
+    background-color: pink; 
+     
     
     
     
     
 }
 
-div{
-    color: #ff4747; 
+div{ 
+    color: #ff4747;  
     
     
 }
+
+
+a{
+    color: yellow;  
+    
+     
+    
+    
+}
+
+
+
 
 
