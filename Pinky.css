@@ -1,31 +1,25 @@
+
+
 p{
     font-family: Arial; 
     color: black;  
     position: relative; 
-    top: 450px;
-    
+    top: 450px; 
+    text-align: center;
+    background-color: yellow;
 }  
 
 
 
 img{
-    height: 250px; 
+    height: 250px;  
     border: 12px double yellow; 
     position: absolute;
-    left: 255px;   
-    top: 105px;
+    left: 565px;   
+    top: 180px;
     
 }
 
-
-body{
-    background-color: pink; 
-     
-    
-    
-    
-    
-}
 
 div{ 
     color: #ff4747;  
@@ -41,7 +35,6 @@ a{
     
     
 }
-
 
 
 
